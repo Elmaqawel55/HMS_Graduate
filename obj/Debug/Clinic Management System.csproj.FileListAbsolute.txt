@@ -1,0 +1,162 @@
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\ApplicationInsights.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\csc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\vbc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\DBProject.dll.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\DBProject.pdb
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.Web.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.Web.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\DBProject.pdb
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\ApplicationInsights.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\csc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\vbc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\DBProject.dll.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\DBProject.pdb
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.Web.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.Web.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.pdb
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\ApplicationInsights.config
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\csc.exe
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\vbc.exe
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\DBProject.dll.config
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\DBProject.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\DBProject.pdb
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.Web.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.Web.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\Clinic M.C6172C23.Up2Date
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\DBProject.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\DBProject.pdb
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\ApplicationInsights.config
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\csc.exe
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\vbc.exe
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\DBProject.dll.config
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\DBProject.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\DBProject.pdb
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.Web.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.Web.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\Clinic M.C6172C23.Up2Date
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\DBProject.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\DBProject.pdb
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Newtonsoft.Json.Bson.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Newtonsoft.Json.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Buffers.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Memory.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Net.Http.Extensions.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Net.Http.Formatting.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Net.Http.Primitives.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Numerics.Vectors.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Threading.Tasks.Extensions.dll
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Newtonsoft.Json.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Newtonsoft.Json.Bson.pdb
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\Newtonsoft.Json.Bson.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Buffers.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Memory.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Net.Http.Extensions.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Net.Http.Formatting.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Net.Http.Primitives.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Numerics.Vectors.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\bin\System.Threading.Tasks.Extensions.xml
+D:\eelu\it 4 second\graduation project\Hospital_Management_ASP.NET-main\Hospital_Management_ASP.NET-main\Code\DBProject\obj\Debug\Clinic Management System.csproj.App.config
